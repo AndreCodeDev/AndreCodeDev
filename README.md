@@ -6,34 +6,6 @@ Sempre com o objetivo de expandir meus horizontes, estou constantemente buscando
 
 ---
 
-## 🛠 **Tecnologias e Habilidades**
-
-**Linguagens**:
-- JavaScript
-- Java
-- Python
-- HTML5
-- CSS3
-
-**Frameworks e Ferramentas**:
-- **React** | **Node.js** | **Express**
-- **Git** | **GitHub**
-- **Visual Studio Code**
-- **Figma** (para protótipos e design de interfaces)
-
-**Outros Conhecimentos**:
-- Algoritmos e Estruturas de Dados
-- Arquitetura de Software
-- Testes Automatizados
-
----
-
-## 💡 **Meu Objetivo**
-
-Atualmente, busco oportunidades profissionais e de estágio que me permitam aplicar minhas habilidades técnicas em **desenvolvimento de sistemas**, aprimorar minha expertise em **arquitetura de software**, e colaborar com equipes para criar soluções inovadoras. Estou sempre em busca de aprender e contribuir para o desenvolvimento tecnológico!
-
----
-
 ## 📈 **Estatísticas GitHub**
 
 <div>
@@ -42,6 +14,25 @@ Atualmente, busco oportunidades profissionais e de estágio que me permitam apli
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrVsCoding&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
+## 🛠 **Tecnologias e Habilidades**
+
+**Linguagens**:
+- HTML5
+- CSS3
+- JavaScript
+- Java
+
+**Frameworks e Ferramentas**:
+- **BootStrap**
+- **Git** | **GitHub**
+- **Visual Studio Code** | **Visual Studio** | **Eclipse**
+- **Figma**
+
+**Outros Conhecimentos**:
+- Algoritmos e Estruturas de Dados
+- Arquitetura de Software
+- Testes Automatizados
 
 ---
 
@@ -54,8 +45,8 @@ Atualmente, busco oportunidades profissionais e de estágio que me permitam apli
 
 ## 🌐 **Conecte-se Comigo**
 
-- [LinkedIn](https://www.linkedin.com/in/andr%C3%A9vsdias/)
-- [GitHub](https://github.com/AndrVsCoding)
+- [LinkedIn](www.linkedin.com/in/andrecodedev)
+- [GitHub](https://github.com/AndreCodeDev)
 - 📧 **Email**: salesdias1207@gmail.com
 
 ---
